@@ -25,6 +25,10 @@ main{
     background-color: rgb(20, 198, 178);
 }
 
+.mapa{
+    display: flex-start;
+}
+
 footer{
     background-color: rgb(21, 222, 165);
     color: black;
