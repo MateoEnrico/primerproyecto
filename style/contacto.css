@@ -1,0 +1,70 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:rgba(20, 198, 177, 0.586);
+}
+
+header{
+    background-color: rgb(21, 222, 165);
+    color: black;
+    display: flex;
+    justify-content: space-around;
+}
+
+header > a{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    background-color:  rgb(21, 222, 165);
+}
+
+main{
+    background-color: rgb(20, 198, 178);
+}
+
+.titulomain{
+    background-color: rgb(20, 198, 178);
+}
+
+footer{
+    background-color: rgb(21, 222, 165);
+    color: black;
+    display: flex;
+    justify-content: space-around;
+}
+
+footer > a{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
+
+div{
+    margin: 8px;
+
+}
+.edad{
+    display: inline-block;
+}
+body{
+    background-color: aquamarine;
+    display: flexbox;
+}
+fieldset{
+    background-color: azure;
+    border-radius: 10px;
+}
+button{
+    background-color: azure;
+    color: black;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+
+}
+h1{
+    color: black;
+}
+input{
+    border-radius: 10px;
+    background-color: aliceblue;
+}

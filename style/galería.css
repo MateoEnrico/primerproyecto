@@ -1,0 +1,44 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:rgba(20, 198, 177, 0.586);
+}
+
+header{
+    background-color: rgb(21, 222, 165);
+    color: black;
+    display: flex;
+    justify-content: space-around;
+}
+
+header > a{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    background-color:  rgb(21, 222, 165);
+}
+
+main{
+    background-color: rgb(20, 198, 178);
+    text-align: center;
+}
+
+.titulomain{
+    background-color: rgb(20, 198, 178);
+}
+
+.setup{
+    width: 80%;
+}
+
+footer{
+    background-color: rgb(21, 222, 165);
+    color: black;
+    display: flex;
+    justify-content: space-around;
+}
+
+footer > a{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}

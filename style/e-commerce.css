@@ -1,0 +1,74 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:rgba(20, 198, 177, 0.586);
+    box-sizing: border-box;
+}
+
+header{
+    background-color: rgb(21, 222, 165);
+    color: black;
+    display: flex;
+    justify-content: space-around;
+}
+
+header > a{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    background-color:  rgb(21, 222, 165);
+}
+
+nav{
+    text-align: center;
+    background-color: rgb(20, 198, 178);
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.titulomain{
+    justify-content: center;
+    background-color: rgb(20, 198, 178);
+}
+
+h2{
+    background-color: rgb(20, 198, 178);
+}
+
+.pmain{
+    justify-content: center;
+    background-color: rgb(20, 198, 178);
+}
+
+.card{
+    justify-content: flex-start;
+    width: 400px;
+    border-style: inset;   
+    border-radius: 20px;
+}
+.Comprar{
+    background-color: azure;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.ecommerce{
+    width: 300px ;
+    border-radius: 20px ;
+}
+
+footer{
+    background-color: rgb(21, 222, 165);
+    color: black;
+    display: flex;
+    justify-content: space-around;
+}
+
+footer > a{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    background-color: rgb(21, 222, 165);
+}
